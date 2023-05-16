@@ -1,0 +1,4 @@
+[2023-04-28 14:38:03.684] [info]  error: Command failed: nssm start uid-manager
+/bin/sh: nssm: command not found
+
+[2023-04-28 14:38:03.687] [info]  serice status

@@ -1,0 +1,45 @@
+{
+  "version": "3.16.1",
+  "name": "Mark Edge",
+  "apps": {
+    "uidManager": [
+      {
+        "name": "UID-MANAGER",
+        "checksum": "2D98BCE42E0BA15D51B4C2BC796A95C2",
+        "version": "3.15.0",
+        "url": "https://mark-assets.s3.ap-south-1.amazonaws.com/markV3/uid-manager.exe",
+        "type": "nssm"
+      }
+    ]
+  }
+}
+{
+  "version": "3.16.1",
+  "name": "Mark Edge",
+  "apps": {
+    "uidManager": [
+      {
+        "name": "UID-MANAGER",
+        "checksum": "2D98BCE42E0BA15D51B4C2BC796A95C2",
+        "version": "3.15.0",
+        "url": "https://mark-assets.s3.ap-south-1.amazonaws.com/markV3/uid-manager.exe",
+        "type": "nssm"
+      }
+    ]
+  }
+}
+{
+  "version": "3.16.1",
+  "name": "Mark Edge",
+  "apps": {
+    "uidManager": [
+      {
+        "name": "UID-MANAGER",
+        "checksum": "2D98BCE42E0BA15D51B4C2BC796A95C2",
+        "version": "3.15.0",
+        "url": "https://mark-assets.s3.ap-south-1.amazonaws.com/markV3/uid-manager.exe",
+        "type": "nssm"
+      }
+    ]
+  }
+}
